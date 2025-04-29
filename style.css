@@ -1,9 +1,33 @@
 nav{
 
-    background-color:rgb(222, 20, 20);
-    color:fuchsia;
+    background-color:rgb(3, 0, 0);
+    color:rgb(20, 3, 20);
 }
 a{
 
-    color:rgb(76, 0, 255);
+    color:rgb(255, 255, 255);
+}
+.title{
+    color: rgb(19, 83, 60);
+
+}
+.sub-title{
+    color: rgba(251, 248, 248, 0.564);
+}
+body{
+    background:linear-gradient(black,grey,white)
+}
+a:hover{
+    color: rgb(7, 5, 5);
+    background-color: rgb(248, 234, 234);
+}
+.heading{
+    padding: 20px;
+    margin: 20px;
+    background-color: azure;
+    color: rgb(5, 1, 1);
+    text-align: center;
+}
+.heading:hover{
+    color: red;
 }
